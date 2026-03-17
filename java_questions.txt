@@ -1,0 +1,10 @@
+What is JVM?|Java Virtual Machine|Java Volatile Method|Java Very Module|None of these|A
+Which keyword is used to inherit a class?|this|import|extends|implements|C
+What is the default value of int in Java?|0|1|null|undefined|A
+Which of these is not a Java primitive type?|int|boolean|String|double|C
+Which method is the entry point for a Java program?|init()|main()|start()|run()|B
+What is the size of int in Java?|8 bits|16 bits|32 bits|64 bits|C
+What is the output of 5/2 in Java?|2.5|2|2.0|3|B
+Which package is automatically imported in every Java program?|java.util|java.io|java.lang|java.net|C
+Which loop is guaranteed to execute at least once?|for|while|do-while|None|C
+Java is platform ___?|Independent|Dependent|Bound|Strict|A
